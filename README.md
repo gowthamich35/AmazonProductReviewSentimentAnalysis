@@ -1,4 +1,3 @@
-# AmazonProductReviewSentimentAnalysis
 **Overview**
 This project aims to perform sentiment analysis on Amazon product reviews using machine learning techniques. The goal is to classify reviews as positive or negative based on the sentiments expressed in the text.
 
